@@ -1,4 +1,3 @@
 this is just a random text 
 this is a text from feature branch.
-this line is to creat conflict
-this line is from conflict in feature
+this line is to creat conflict in feature branch
